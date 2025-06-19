@@ -1,9 +1,11 @@
-img {
-    width: 300px;            /* Ancho de la imagen */
-    height: auto;            /* Altura proporcional */
-    padding: 20px;           /* Espacio interno */
-    margin: 10px;            /* Espacio externo */
-    border: 2px solid #333;  /* Borde alrededor de la imagen */
-    box-sizing: border-box;  /* Incluye padding y borde en el tamaño total */
-    display: block;          /* Evita espacio extra si es inline */
+body {
+  background-color: #35ccc8;
+}
+
+body {
+  color: white;
+}
+
+h1 {
+  color: white;
 }
